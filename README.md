@@ -42,7 +42,7 @@ make test    -- Test Program and predict the question dataset
 ```
 
 ## Example Result
-Take file 02_iris_questions.csv as an example
+Take file 02_iris_questions.csv as an example.
 The output should be like...
 ```
 ./kNN.exe data/02_iris.csv data/02_iris_questions.csv 5 4 1 4 C
