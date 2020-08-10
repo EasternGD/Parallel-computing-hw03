@@ -1,5 +1,5 @@
 # Parallel-computing-hw03
-In this assignment, we are going to implement a machine learning algorithm called kNN – k nearest neighbors.According to Wikipedia, “The k-NN algorithm is among the simplest of all machine learning algorithms.” [1] kNN canbe used to do classification (e.g. a boy with height of 140cm and weight of 27kg, is he a 2th, 3th, 4th, 5th, or 6th grader?)
+In this assignment, we are going to implement a machine learning algorithm called kNN – k nearest neighbors. According to Wikipedia, “The k-NN algorithm is among the simplest of all machine learning algorithms.” [1] kNN canbe used to do classification (e.g. a boy with height of 140cm and weight of 27kg, is he a 2th, 3th, 4th, 5th, or 6th grader?)
 and regression (e.g. how much allowance a girl is likely to have with height of 150cm and weight of 42kg?).
 
 In this assignment, we are going to write a somewhat general-purpose kNN program that allows you to specify 
